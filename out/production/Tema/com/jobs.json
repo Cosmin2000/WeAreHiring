@@ -1,0 +1,52 @@
+{
+	"jobs":[
+	   {
+		"name": "Software Developer Engineer",
+		"company": "Google"
+		"noPosition": 1,
+		"salary": 10000,
+		"year_min": 2002,
+		"year_max": 2020,
+		"experience_min": 2,
+		"experience_max": 6,
+		"average_min": 8,
+		"average_max": null,
+	   },
+	   {
+		"name": "Software Developer Engineer Intern",
+		"company": "Google"
+		"noPosition": 1,
+		"salary": 5000,
+		"year_min": null,
+		"year_max": null,
+		"experience_min": 0,
+		"experience_max": 2,
+		"average_min": 9,
+		"average_max": null,
+	   },
+	   {
+		"name": "Software Developer Engineer",
+		"company": "Amazon"
+		"noPosition": 1,
+		"salary": 12000,
+		"year_min": 2014,
+		"year_max": 2020,
+		"experience_min": 1,
+		"experience_max": null,
+		"average_min": 9,
+		"average_max": null,
+	   },
+           {
+		"name": "Software Developer Engineer Intern",
+		"company": "Amazon"
+		"noPosition": 1,
+		"salary": 6000,
+		"year_min": null,
+		"year_max": null,
+		"experience_min": 0,
+		"experience_max": 2,
+		"average_min": 9.35,
+		"average_max": null,
+	   },	
+	]
+}
